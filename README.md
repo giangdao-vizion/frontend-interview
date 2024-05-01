@@ -18,5 +18,5 @@ Sử dụng React, [@react-three/fiber](https://github.com/pmndrs/react-three-fi
 
 ## Nộp kết quả:
 
-- Cần hoàn thành trong vòng 60p, kết quả cần được build và push lên github pages để được đánh giá.
+- Cần hoàn thành trong vòng 60p, kết quả bao gồm source code và source build cần được push lên github pages để được đánh giá.
 - Submit kết quả bằng cách gửi link Github Pages qua địa chỉ email [giang.dao@vizion.space](mailto:giang.dao@vizion.space) và cc các d/c email: [vi.dang@successsoftware.global](mailto:vi.dang@successsoftware.global), [ngoc.nguyen@successsoftware.global](mailto:ngoc.nguyen@successsoftware.global)
