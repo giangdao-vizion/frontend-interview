@@ -14,6 +14,7 @@ Sử dụng React, [@react-three/fiber](https://github.com/pmndrs/react-three-fi
 - Sử dụng @react-three/drei > OrbitControls để tạo tương tác điều khiển xoay.
 - @react-three/drei > Html và hình ảnh "assets/footstep.png" để tạo ra các bước chân clickable để chuyển sang khung cảnh (không gian) khác. Các bước chân cần hiển thị nghiêng tương tự như trong demo.
 - Hiển thị logo "assets/logo/logo.png" cố định ở góc trên bên phải màn hình. Khi nhấn vào sẽ mở ra website khách hàng (sample.com). Kích thước logo trên mobile: 80x80px, desktop: 150x150px.
+- Ngoài các yêu cầu trong mô tả này, không cần làm thêm gì khác (cho dù có trên demo).
 
 ## Nộp kết quả:
 
